@@ -2,8 +2,8 @@
 //  alert("Hello World");
 //}
 
-const Persona = "Adrian Carrasco";
-const age = "17";
+const Persona = "Adrian Santiago Carrasco Zambrano";
+const age = "18";
 const school = true;
 
 console.log(typeof Persona);
